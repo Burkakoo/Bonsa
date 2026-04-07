@@ -93,6 +93,13 @@ const experience = [
       'Teaching, mentoring, and contributing to academic work while expanding my expertise through advanced study in human rights law.',
   },
   {
+    date: 'May 2025 - October 2025',
+    title: 'Free Legal Aid Coordinator',
+    org: 'School of Law, Borana University',
+    description:
+      'Coordinated free legal aid services through the School of Law, supporting community access to legal assistance and service delivery.',
+  },
+  {
     date: 'Nov 2022 - July 2024',
     title: 'Innovation Leader',
     org: 'Wallaga University GADAO Club',
