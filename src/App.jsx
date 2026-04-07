@@ -431,7 +431,7 @@ function App() {
               <MapPin />
               <div>
                 <span>Based in</span>
-                <strong>Ginir City, Oromia, Ethiopia</strong>
+                <strong>Oromia, Ethiopia</strong>
               </div>
             </div>
           </aside>
