@@ -370,7 +370,7 @@ function App() {
 
       <header className="topbar">
         <a className="brand" href="#top">
-          Bonsa H. Mohammed
+          Bonsa Hussen Mohammed
         </a>
         <nav className="nav">
           <a href="#about">About</a>
@@ -384,12 +384,12 @@ function App() {
         <RevealSection className="hero">
           <div className="hero-copy">
             <p className="eyebrow">Lecturer at Borana University</p>
-            <h1>Bonsa H. Mohammed</h1>
+            <h1>Bonsa Hussen Mohammed</h1>
             <p className="hero-tagline">
               Lecturer, lawyer, researcher, and Master of Laws in Human Rights candidate.
             </p>
             <p className="lead">
-              I am Bonsa H. Mohammed, a lecturer, lawyer, and researcher with a strong foundation in
+              I am Bonsa Hussen Mohammed, a lecturer, lawyer, and researcher with a strong foundation in
               legal writing, academic excellence, and public service. I began serving as a Lecturer
               at Borana University on <strong>24 November 2024</strong> and I am currently studying
               a <strong>Master of Laws in Human Rights</strong>.
@@ -415,7 +415,7 @@ function App() {
 
           <aside className="identity-panel">
             <div className="profile-frame">
-              <img src={profileImage} alt="Bonsa H. Mohammed" className="profile-image" />
+              <img src={profileImage} alt="Bonsa Hussen Mohammed" className="profile-image" />
               <div className="profile-status">
                 <span className="status-dot"></span>
                 <span>Available for Research</span>
@@ -609,7 +609,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>&copy; 2024 Bonsa H. Mohammed | Lecturer, Lawyer, Researcher</p>
+        <p>&copy; 2024 Bonsa Hussen Mohammed | Lecturer, Lawyer, Researcher</p>
       </footer>
     </>
   );
