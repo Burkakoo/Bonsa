@@ -17,7 +17,7 @@ import {
 } from 'lucide-react';
 
 const profileImage = new URL('../cv-profile.jpg', import.meta.url).href;
-const cvPdf = new URL('../Blue Simple Professional CV Resume_20240905_174607_0000.pdf', import.meta.url).href;
+const cvPdf = 'C:/Users/BURKA/Downloads/Telegram Desktop/Ararso-Yaya-Ahmed-FlowCV-Resume-20260120 (1) (2).pdf';
 const aspireCertificate = new URL('../photo_2026-04-07_19-16-22.jpg', import.meta.url).href;
 const careCertificate = new URL('../photo_2026-04-07_19-16-38.jpg', import.meta.url).href;
 const gbvCertificate = new URL('../photo_2026-04-07_19-16-51.jpg', import.meta.url).href;
@@ -30,14 +30,7 @@ const stats = [
     value: '24 Nov 2024',
     label: 'Started as Lecturer, Borana University',
   },
-  {
-    value: '3.83 / 4.0',
-    label: 'LL.B CGPA from Wollega University',
-  },
-  {
-    value: '79 / 100',
-    label: 'National Exit Exam score',
-  },
+  
 ];
 
 const professionalFocus = [
@@ -47,7 +40,7 @@ const professionalFocus = [
   },
   {
     icon: GraduationCap,
-    label: 'Human rights scholarship',
+    label: 'Human rights law',
   },
   {
     icon: Users,
@@ -123,12 +116,16 @@ const experience = [
 ];
 
 const skills = [
-  'Legal Councillor',
+  'Counselling',
+  'Lecturing',
   'Legal Writing',
-  'Researcher',
-  'Essayist',
+  'Research',
+  'Essay writing',
   'Team Work',
   'Leadership',
+  'Microsoft word',
+  'Microsoft Excel',
+  'Data base management',
 ];
 
 const languages = [
@@ -137,12 +134,6 @@ const languages = [
   'Amharic - Fluent',
 ];
 
-const highlights = [
-  'Secured a CGPA of 3.83/4.0 from Wollega University.',
-  'Second-best performer in the entire school of law during the National Exit Exam.',
-  'Leader of Innovation for 3 years at WU GADAO Club.',
-  'Certified in Aspire Leaders Program (2025).',
-];
 
 const certificates = [
   {
