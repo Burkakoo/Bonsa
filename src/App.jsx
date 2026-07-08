@@ -17,7 +17,7 @@ import {
 } from 'lucide-react';
 
 const profileImage = new URL('../cv-profile.jpg', import.meta.url).href;
-const cvPdf = 'C:/Users/BURKA/Downloads/Telegram Desktop/Ararso-Yaya-Ahmed-FlowCV-Resume-20260120 (1) (2).pdf';
+const cvPdf = '/CV_Bonsa_H_Mohammed.pdf';
 const aspireCertificate = new URL('../photo_2026-04-07_19-16-22.jpg', import.meta.url).href;
 const careCertificate = new URL('../photo_2026-04-07_19-16-38.jpg', import.meta.url).href;
 const gbvCertificate = new URL('../photo_2026-04-07_19-16-51.jpg', import.meta.url).href;
@@ -134,6 +134,11 @@ const languages = [
   'Amharic - Fluent',
 ];
 
+const highlights = [
+  'Second-best performer in the LL.B cohort on the national exit exam',
+  'Strong record in legal research, writing, and public service',
+  'Active in teaching, mentorship, and legal aid initiatives',
+];
 
 const certificates = [
   {
