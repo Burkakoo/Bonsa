@@ -535,9 +535,6 @@ function App() {
 
             <article className="section-card highlight-card">
               <h3>Professional Highlights</h3>
-              <div className="stat-grid solo-stat">
-                <StatCard value="Top 2%" label="National Exit Exam Rank" />
-              </div>
               <ul className="simple-list">
                 {highlights.map((highlight) => (
                   <li key={highlight}>{highlight}</li>
