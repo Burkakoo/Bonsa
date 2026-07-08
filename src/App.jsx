@@ -386,13 +386,13 @@ function App() {
             <p className="eyebrow">Lecturer at Borana University</p>
             <h1>Bonsa Hussen Mohammed</h1>
             <p className="hero-tagline">
-              Lecturer, lawyer, researcher, and Master of Laws in Human Rights candidate.
+              Lecturer, lawyer, researcher, and human rights advocate.
             </p>
             <p className="lead">
               I am Bonsa Hussen Mohammed, a lecturer, lawyer, and researcher with a strong foundation in
               legal writing, academic excellence, and public service. I began serving as a Lecturer
               at Borana University on <strong>24 November 2024</strong> and I am currently studying
-              a <strong>Master of Laws in Human Rights</strong>.
+              a <strong>LL.M in Human Rights</strong>.
             </p>
 
             <div className="hero-actions">
@@ -444,10 +444,7 @@ function App() {
           <SectionHeading eyebrow="About" title="Profile" />
           <div className="section-card profile-card">
             <p>
-              A dedicated and high-achieving legal professional with a First Degree in Law (LL.B)
-              and an impressive CGPA of 3.83 out of 4. I demonstrated strong academic performance by
-              scoring 79 out of 100 on the National Exit Exam and ranking as the second-best
-              performer in my school.
+              LL.B at Wollega University, and LL.M in Human Rights Candidate at Addis Ababa University.
             </p>
             <p>
               My background combines legal research, essay writing, teamwork, volunteerism, and
@@ -514,7 +511,6 @@ function App() {
               </p>
               <p>Wollega University</p>
               <p className="muted">2019 - 2024</p>
-              <p className="muted">CGPA: 3.83 / 4.0</p>
             </article>
 
             <article className="section-card">
